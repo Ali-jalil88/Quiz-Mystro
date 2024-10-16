@@ -1,5 +1,5 @@
 # Quiz-Mystro
-| Number | Task   | Session Date  | Task of Name | Link Notebook 
+| Number | Task   | Session Date  | Task of Name | Link Notebook |
 | 1     | Task 1 | 2024-16-10    | [Link-Task 1](#) 
 | 2     | Task 2 | 2024-16-10    | [Link-Task 2](https://github.com/Ali-jalil88/Quiz-Mystro/blob/main/task2.ipynb) 
 | 3     | Task 3 | 2024-16-10    | [Link-Task 3](#) 
